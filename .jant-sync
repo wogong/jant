@@ -1,0 +1,15 @@
+{
+  "schema_version": 3,
+  "site_id": "sit_01krh0894vf24sfkf3qahs80ax",
+  "site_host": "jant.wogong.net",
+  "created_at": 1778727302,
+  "managed_globs": [
+    "content/**",
+    "data/jant.toml",
+    "themes/jant/**",
+    "hugo.toml",
+    ".gitignore",
+    "README.md",
+    ".jant-sync"
+  ]
+}
