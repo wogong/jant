@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-05-14T16:13:33.000Z"
+generated_at = "2026-05-19T02:45:32.000Z"
 site_name = "wogong"
 site_description = ""
 site_language = "en"
@@ -56,3 +56,12 @@ label = "RSS"
 url = "/featured/index.xml"
 system_key = "rss"
 placement = "more"
+
+[[directory]]
+type = "collection"
+sequence = "00"
+slug = "ai"
+title = "AI"
+entry_count = 1
+recent_activity_label = "1m ago"
+recent_activity_iso = "2026-05-19T02:45:32.000Z"
