@@ -4,6 +4,8 @@ title: "为什么要写作"
 date: "2026-05-27T03:40:00.000Z"
 slug: "wei-shen-me-yao-xie-zuo"
 type: "post"
+aliases:
+  - "/writes-and-writes-nots/"
 format: "link"
 status: "published"
 visibility: "public"
@@ -15,6 +17,7 @@ collections:
     collected_at: "2026-05-27T03:40:00.000Z"
     position: 0
     pinned_at: null
+last_activity_at: "2026-05-27T03:42:36.000Z"
 ---
 
 写作是另一种形式的思考/强迫你思考的手段
