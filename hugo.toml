@@ -32,7 +32,6 @@ disableKinds = ['taxonomy', 'term']
 
 [params]
   description = ""
-  home_default_view = "latest"
   main_rss_feed = "featured"
   show_jant_branding_on_home = false
   show_header_avatar = false

@@ -1,10 +1,9 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-07-02T23:20:04.000Z"
+generated_at = "2026-07-13T03:29:22.000Z"
 site_name = "wogong"
 site_description = ""
 site_language = "en"
-home_default_view = "latest"
 main_rss_feed = "featured"
 show_jant_branding_on_home = false
 show_header_avatar = false
