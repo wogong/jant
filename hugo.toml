@@ -33,6 +33,8 @@ disableKinds = ['taxonomy', 'term']
 [params]
   description = ""
   main_rss_feed = "featured"
+  public_api_enabled = true
+  rss_feeds_enabled = true
   show_jant_branding_on_home = false
   show_header_avatar = false
   noindex = false
