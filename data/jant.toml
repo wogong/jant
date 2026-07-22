@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-07-22T01:18:01.000Z"
+generated_at = "2026-07-22T01:19:03.000Z"
 site_name = "wogong"
 site_description = ""
 site_language = "en"
@@ -63,6 +63,6 @@ type = "collection"
 sequence = "00"
 slug = "ai"
 title = "AI"
-entry_count = 6
+entry_count = 7
 recent_activity_label = "1m ago"
-recent_activity_iso = "2026-07-22T01:18:01.000Z"
+recent_activity_iso = "2026-07-22T01:19:03.000Z"
